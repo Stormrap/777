@@ -52,7 +52,7 @@ const styles = StyleSheet.create({
 
 class LoginView extends React.Component {
 	static navigationOptions = ({ navigation, screenProps }) => {
-		const title = navigation.getParam('title', 'Rocket.Chat');
+		const title = navigation.getParam('title', 'Powered by SredaIT');
 		return {
 			...themedHeader(screenProps.theme),
 			title,

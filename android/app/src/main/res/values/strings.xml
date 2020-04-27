@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">Rocket.Chat Experimental</string>
-    <string name="share_extension_name">Rocket.Chat Experimental</string>
+    <string name="app_name">РСК Чат</string>
+    <string name="share_extension_name">РСК Чат</string>
+    <string name="no_browser_found">No Browser Found</string>
 </resources>

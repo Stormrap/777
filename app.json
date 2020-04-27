@@ -2,7 +2,7 @@
   "name": "RocketChatRN",
   "share": "ShareRocketChatRN",
   "displayName": "RocketChatRN",
-  "server": "https://open.rocket.chat",
+  "server": "http://109.60.140.216:1000",
   "appGroup": "group.ios.chat.rocket",
   "appStoreID": "1272915472"
 }
